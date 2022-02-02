@@ -86,7 +86,9 @@ public class Wordle{
         List<string> words = new List<string>(){
             "bacon", "trick", "cream", "about", "piano", "house", "alone", "above", "mouse", "cried", "media",
             "radio", "voice", "value", "ocean", "alive", "image", "olive", "quiet", "video", "cause", "sauce",
-            "juice", "noise", "abuse", "opera", "naive", "azure"
+            "juice", "noise", "abuse", "opera", "naive", "azure", "other", "faith", "clown", "towel", "shelf", 
+            "shine", "eager", "earth", "solid", "space", "label", "vague", "clean", "eagle", "fault", "frost",
+            "medic", "movie", "siren", "syrup", "turbo", "story"
         };
         Random rnd = new Random();
         int ranNum = rnd.Next(words.Count());
