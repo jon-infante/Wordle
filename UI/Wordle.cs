@@ -37,7 +37,6 @@ public class Wordle{
                 //UI
                 ColorWrite.wc("\n=======================[Wordle]======================", ConsoleColor.DarkCyan);
                 Console.WriteLine("\t           Guess a word!\n");
-                Console.WriteLine(word);
                 WriteRow(row1, word, wordDict);
                 WriteRow(row2, word, wordDict);
                 WriteRow(row3, word, wordDict);
