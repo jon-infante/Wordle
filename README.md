@@ -10,8 +10,8 @@
 
 ## Get Started
 
-To checkout the store application use the following steps:
+To checkout the application use the following steps:
 
 > Download dotnet SDK or dotnet runtime and a text editor <br>
-> Clone the repo `https://github.com/jon-infante/Wordle.git` <br>
+> Clone the repo `git clone https://github.com/jon-infante/Wordle.git` <br>
 > Navigate to UI folder and type `dotnet run`
