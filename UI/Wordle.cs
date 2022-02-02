@@ -85,6 +85,7 @@ public class Wordle{
                 Console.WriteLine($"Out of guesses! The word was {word}");
                 exit = true;
                 }
+            exit = true;
         }
     }
 
