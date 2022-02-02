@@ -152,6 +152,7 @@ public class Wordle{
                 Console.ForegroundColor = ConsoleColor.DarkGray;
                 Console.Write($"{Char.ToUpper(charToWrite)} ");
             }
+            Console.ResetColor();  
             startingNum = (int)(charToWrite) + 1;
             charToWrite = (char)(startingNum);
         }
