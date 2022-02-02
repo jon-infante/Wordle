@@ -68,15 +68,7 @@ public class Wordle{
                     exit = true;
                     Console.WriteLine("");
                     Console.WriteLine($"Congratulations! You guess the word in {count} guesses!");
-                    Console.WriteLine("Would you like to play again? [y/n]");
-                    string? dec = Console.ReadLine();
-                    if (dec == "y"){
-                        Wordle w = new Wordle();
-                        w.Start();
-                    }
-                    else{
-                        break;
-                    }
+                    break;
                 }
             }
             //All guessed have been made
