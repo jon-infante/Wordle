@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonjo\\OneDrive\\Desktop\\Revature\\Wordle\\ui\\UI.csproj": {}
+    "C:\\Users\\jonjo\\OneDrive\\Desktop\\Revature\\Wordle\\UI\\UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonjo\\OneDrive\\Desktop\\Revature\\Wordle\\ui\\UI.csproj": {
+    "C:\\Users\\jonjo\\OneDrive\\Desktop\\Revature\\Wordle\\UI\\UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonjo\\OneDrive\\Desktop\\Revature\\Wordle\\ui\\UI.csproj",
+        "projectUniqueName": "C:\\Users\\jonjo\\OneDrive\\Desktop\\Revature\\Wordle\\UI\\UI.csproj",
         "projectName": "UI",
-        "projectPath": "C:\\Users\\jonjo\\OneDrive\\Desktop\\Revature\\Wordle\\ui\\UI.csproj",
+        "projectPath": "C:\\Users\\jonjo\\OneDrive\\Desktop\\Revature\\Wordle\\UI\\UI.csproj",
         "packagesPath": "C:\\Users\\jonjo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonjo\\OneDrive\\Desktop\\Revature\\Wordle\\ui\\obj\\",
+        "outputPath": "C:\\Users\\jonjo\\OneDrive\\Desktop\\Revature\\Wordle\\UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonjo\\AppData\\Roaming\\NuGet\\NuGet.Config",
